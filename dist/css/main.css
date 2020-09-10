@@ -116,7 +116,8 @@ h3 {
   h1.lg-heading,
   h2.lg-heading,
   h3.lg-heading {
-    font-size: 6rem; }
+    font-size: 6rem;
+color:cyan}
   h1.sm-heading,
   h2.sm-heading,
   h3.sm-heading {
@@ -125,7 +126,7 @@ h3 {
     background: rgba(73, 73, 73, 0.5); }
 
 a {
-  color: #fff;
+  color: cyan;
   text-decoration: none; }
 
 header {
@@ -204,7 +205,7 @@ main {
       background: #eece1a;
       color: #000; }
       .boxes div:hover span {
-        color: #000; }
+        color: cyan; }
 
 .btn, .btn-dark, .btn-light {
   display: block;
